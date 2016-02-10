@@ -98,9 +98,9 @@ let s:gb.dark4_256   = ['#7c6f63', 243]     " 124-111-100
 let s:gb.gray_245    = ['#908274', 245]     " 146-131-116
 let s:gb.gray_244    = ['#908274', 244]     " 146-131-116
 
-let s:gb.light0_hard = ['#f9f5d7', 230]     " 249-245-215
-let s:gb.light0      = ['#fdf4c1', 229]     " 253-244-193
-let s:gb.light0_soft = ['#f2e5bc', 228]     " 242-229-188
+let s:gb.light0_hard = ['#ece6ce', 230]     " 249-245-215
+let s:gb.light0      = ['#dcd2b9', 229]     " 253-244-193
+let s:gb.light0_soft = ['#c8bda6', 228]     " 242-229-188
 let s:gb.light1      = ['#dcd2b9', 223]     " 235-219-178
 let s:gb.light2      = ['#c8bda6', 250]     " 213-196-161
 let s:gb.light3      = ['#b5aa96', 248]     " 189-174-147
